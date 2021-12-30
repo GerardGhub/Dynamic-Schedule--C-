@@ -1,0 +1,69 @@
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\bin\Debug\DSched.exe.config
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\bin\Debug\DSched.exe
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\bin\Debug\DSched.pdb
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Debug\DSched.csprojResolveAssemblyReference.cache
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Debug\DSched.Form1.resources
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Debug\DSched.Properties.Resources.resources
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Debug\DSched.csproj.GenerateResource.Cache
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Debug\DSched.exe
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Debug\DSched.pdb
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\DynamicSched.exe.config
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\DynamicSched.exe
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\DynamicSched.pdb
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\FlashControlV71.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\stdole.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Debug\DSched.Form1.resources
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Debug\DSched.Form2.resources
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Debug\DynamicSched.Form3.resources
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Debug\DynamicSched.Properties.Resources.resources
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Debug\DSched.csproj.GenerateResource.cache
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Debug\DSched.csproj.CoreCompileInputs.cache
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Debug\DSched.csproj.CopyComplete
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Debug\DynamicSched.exe
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Debug\DynamicSched.pdb
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Debug\Tulpep.NotificationWindow.dll
+C:\kykt\Dynamic Schedule\DSched\obj\Debug\DSched.csprojAssemblyReference.cache
+C:\kykt\Dynamic Schedule\DSched\obj\Debug\DynamicSched.exe
+C:\kykt\Dynamic Schedule\DSched\obj\Debug\DynamicSched.pdb
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\DynamicSched.exe.config
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\DynamicSched.exe
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\DynamicSched.pdb
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\Tulpep.NotificationWindow.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\ShockwaveFlashObjects.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\kykt\Dynamic Schedule\DSched\bin\Debug\stdole.dll
+C:\kykt\Dynamic Schedule\DSched\obj\Debug\DSched.Form1.resources
+C:\kykt\Dynamic Schedule\DSched\obj\Debug\DSched.Form2.resources
+C:\kykt\Dynamic Schedule\DSched\obj\Debug\DynamicSched.Form3.resources
+C:\kykt\Dynamic Schedule\DSched\obj\Debug\DynamicSched.Properties.Resources.resources
+C:\kykt\Dynamic Schedule\DSched\obj\Debug\DSched.csproj.GenerateResource.cache
+C:\kykt\Dynamic Schedule\DSched\obj\Debug\DSched.csproj.CoreCompileInputs.cache
+C:\kykt\Dynamic Schedule\DSched\obj\Debug\DSched.csproj.CopyComplete

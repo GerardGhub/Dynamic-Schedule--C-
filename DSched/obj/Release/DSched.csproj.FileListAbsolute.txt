@@ -1,0 +1,53 @@
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\bin\Release\DSched.exe.config
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\bin\Release\DSched.exe
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\bin\Release\DSched.pdb
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Release\DSched.csprojResolveAssemblyReference.cache
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Release\DSched.Form1.resources
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Release\DSched.Properties.Resources.resources
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Release\DSched.csproj.GenerateResource.Cache
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Release\DSched.exe
+C:\Users\philip.calugcugan\Desktop\DSched\DSched\obj\Release\DSched.pdb
+C:\Users\philip.calugcugan\Desktop\System Dev\DSched\DSched\bin\Release\DSched.exe.config
+C:\Users\philip.calugcugan\Desktop\System Dev\DSched\DSched\obj\Release\DSched.exe
+C:\Users\philip.calugcugan\Desktop\System Dev\DSched\DSched\obj\Release\DSched.pdb
+C:\Users\philip.calugcugan\Desktop\System Dev\DSched\DSched\bin\Release\DSched.exe
+C:\Users\philip.calugcugan\Desktop\System Dev\DSched\DSched\bin\Release\DSched.pdb
+C:\Users\philip.calugcugan\Desktop\System Dev\DSched\DSched\obj\Release\DSched.csprojResolveAssemblyReference.cache
+C:\Users\philip.calugcugan\Desktop\System Dev\DSched\DSched\obj\Release\DSched.Form1.resources
+C:\Users\philip.calugcugan\Desktop\System Dev\DSched\DSched\obj\Release\DSched.Properties.Resources.resources
+C:\Users\philip.calugcugan\Desktop\System Dev\DSched\DSched\obj\Release\DSched.csproj.GenerateResource.Cache
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\DynamicSched.exe.config
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\DynamicSched.exe
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\DynamicSched.pdb
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Release\DSched.Form1.resources
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Release\DSched.Form2.resources
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Release\DynamicSched.Properties.Resources.resources
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Release\DSched.csproj.GenerateResource.Cache
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Release\DynamicSched.exe
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Release\DynamicSched.pdb
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Release\DynamicSched.Form3.resources
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\FlashControlV71.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\bin\Release\stdole.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Release\DSched.csprojAssemblyReference.cache
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Release\DSched.csproj.CoreCompileInputs.cache
+C:\Users\philip.calugcugan\Desktop\PHILIP\System Dev\DSched\DSched\obj\Release\DSched.csproj.CopyComplete
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Dynamic Schedule\DSched\bin\Release\DynamicSched.exe.config
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Dynamic Schedule\DSched\obj\Release\DynamicSched.exe
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Dynamic Schedule\DSched\obj\Release\DynamicSched.pdb
